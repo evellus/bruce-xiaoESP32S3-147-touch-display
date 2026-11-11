@@ -26,6 +26,12 @@ both non-standard for Bruce.
 - Buttons: USR1 = select, USR2 = next / hold = back
 - Battery reading, brightness, WebUI and the usual Bruce features
 
+## Enclosure (3D print)
+
+A printable case for this board is available on Printables:
+
+- **STL 3D print case** — [Enclosure for XIAO 1.47" IPS Touch Display (ESP32/nRF52)](https://www.printables.com/model/1843008-enclosure-for-xiao-147-ips-touch-display-esp32nrf5)
+
 ## Pin map (GPIO)
 
 | Function | GPIO | | Function | GPIO |
